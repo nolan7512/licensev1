@@ -1,0 +1,4 @@
+data|data|11/2020|ADMIN|
+version1|0|11/2020|User|
+version2|0|11/2020|User|
+version3|0|11/2020|User|
