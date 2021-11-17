@@ -1,4 +1,4 @@
-data|data|11/2020|ADMIN|Message : Hello|linh|linh|Infinity|UserVIP|Message : Hello|version2|jt|11/2020|User|Message : Hello|version3|jt|11/2020|User|Message : Hello
+data|data|11/2020|ADMIN|Chào bạn|linh|linh|Infinity|UserVIP|Chào chị Linh|version2|jt|11/2020|User|Message : Hello|version3|jt|11/2020|User|Message : Hello
 
 
 
