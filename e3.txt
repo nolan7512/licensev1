@@ -1,4 +1,4 @@
-data|data|11/2020|ADMIN|Chào bạn|10|1|linh|linh|Infinity|UserVIP|Chào chị Linh|10|1|nhi|nhi|Infinity|User Baby|Message : Hí cục cưng!!|80|1|jt1|jt|11/2020|User|Message : Hello|10|1
+data|data|11/2020|ADMIN|Chào bạn|10|0|linh|linh|Infinity|UserVIP|Chào chị Linh|10|1|nhi|nhi|Infinity|User Baby|Message : Hí cục cưng!!|80|1|jt1|jt|11/2020|User|Message : Hello|10|1
 
 
 
