@@ -1,4 +1,4 @@
-data|data|27/05/2022|User|Chào bạn|10|0|50|linh|linh|27/05/2022|UserVIP|Chào chị Linh xinh đẹp|1000|1|300|tiengiang|tiengiang|27/05/2022|User|Message : Sắp hết hạn rồi nè, Donate để gian hạn nha !!!!!|3000|1|200
+data|data|27/05/2022|User|Chào bạn|10|0|1|linh|linh|27/05/2022|UserVIP|Chào chị Linh xinh đẹp|1000|1|300|tiengiang|tiengiang|27/05/2022|User|Message : Sắp hết hạn rồi nè, Donate để gian hạn nha !!!!!|3000|1|200
 
 
 
