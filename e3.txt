@@ -1,4 +1,4 @@
-nw|nw|29/12/2022|User|Chào bạn|10|0|50|network|network|30/12/2022|UserVIP|Warning : Lost Administrator Rights |1000|1|300|tgg|tgg|30/12/2022|User|Warning : Lost Administrator Rights|3000|1|200|dni|dni|30/12/2022|User|Warning : Lost Administrator Rights|500|1|200
+nw|nw|29/12/2022|User|Chào bạn|200000|0|5000|dni|dni|30/12/2022|User|Warning : Lost Administrator Rights|5000|1|1000
 
 
 
